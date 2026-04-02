@@ -16,7 +16,7 @@
 
 ```bash
 > whoami
-YOUR_NAME
+JOINT SURESH
 
 > specialization
 full-stack / systems / creative dev
