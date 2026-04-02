@@ -1,4 +1,4 @@
-```md
+````md
 <!-- TOP BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=120&section=header"/>
@@ -14,37 +14,31 @@
 
 ## 🧠 SYSTEM LOG
 
-```
-
+```bash
 user        :: your-username
 status      :: alive (barely)
 role        :: developer / explorer
 location    :: somewhere in the fog
-
-```
+````
 
 ---
 
 ## ⚙️ LOADOUT
 
-```
-
+```bash
 Languages   :: Python | JavaScript | C++
 Frameworks  :: Flask | Node.js | React
 Domains     :: Machine Learning | IoT | Computer Vision
-
 ```
 
 ---
 
 ## 🩸 CURRENT OBJECTIVE
 
-```
-
+```bash
 > Building intelligent systems
 > Exploring AI + automation
 > Creating real-world ML applications
-
 ```
 
 ---
@@ -71,35 +65,29 @@ Domains     :: Machine Learning | IoT | Computer Vision
 
 ## 🧩 INVENTORY
 
-```
-
-* AI Models (Faster R-CNN, EfficientNet, Random Forest)
-* IoT Systems (Smart Irrigation)
-* Full Stack Applications
-* Experimental Projects
-
+```bash
+- AI Models (Faster R-CNN, EfficientNet, Random Forest)
+- IoT Systems (Smart Irrigation)
+- Full Stack Applications
+- Experimental Projects
 ```
 
 ---
 
 ## ☠️ WARNING
 
-```
-
+```bash
 This system operates in darkness.
 Enter at your own risk.
-
 ```
 
 ---
 
 ## 🕯️ FINAL MESSAGE
 
-```
-
+```bash
 "Fear not the dark, my friend.
 And let the feast begin."
-
 ```
 
 ---
