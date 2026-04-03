@@ -48,10 +48,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
 
-<img src="https://streak-stats.demolab.com?user=joint-suresh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" style="display: inline-block; text-align: right;" />
-<img src="https://media.tenor.com/6qx58dvIfRIAAAAj/mambo-omachi.gif" height="150" style="display: inline-block; text-align: right;" />
+<div style="display: flex; justify-content: flex-end;">
+  <img src="https://streak-stats.demolab.com?user=joint-suresh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph" />
+  <img src="https://media.tenor.com/6qx58dvIfRIAAAAj/mambo-omachi.gif" height="150" alt="gif" />
+</div>
 
 <h2 align="center">LOOK AT THE SKIES TRAVELLER</h2>
 
