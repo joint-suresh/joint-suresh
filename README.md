@@ -52,9 +52,12 @@
 
 </div>
 
-<div style="display: flex; justify-content: flex-end;">
-  <img src="https://streak-stats.demolab.com?user=joint-suresh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph" />
-  <img src="https://media.tenor.com/6qx58dvIfRIAAAAj/mambo-omachi.gif" height="150" alt="gif" />
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+  <!-- Streak Graph (Center) -->
+  <img src="https://streak-stats.demolab.com?user=joint-suresh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph" style="margin-right: auto;" />
+  
+  <!-- GIF (Right Align) -->
+  <img src="https://media.tenor.com/6qx58dvIfRIAAAAj/mambo-omachi.gif" height="150" alt="gif" style="margin-left: auto;" />
 </div>
 
 <h2 align="center">LOOK AT THE SKIES TRAVELLER</h2>
