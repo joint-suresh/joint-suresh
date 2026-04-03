@@ -51,8 +51,8 @@
 
 
 </div>
-
-
+<br><br>
+<br><br>
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
   <img src="https://media.tenor.com/ZlYEwEcLfvQAAAAM/1.gif" height="150" alt="gif" style="margin-left: auto;" />
   <img src="https://media.tenor.com/AAMEFNsRaeEAAAAM/anime-girl.gif" height="150" alt="gif" style="margin-left: auto;" />
