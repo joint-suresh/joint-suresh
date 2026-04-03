@@ -59,7 +59,7 @@
   <!-- Streak Graph (Center) -->
   <img src="https://streak-stats.demolab.com?user=joint-suresh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph" style="margin-right: auto;" />
   
-  <img src="https://giffiles.alphacoders.com/133/13337.gif" height="150" alt="gif" style="margin-left: auto;" />
+  
   <!-- GIF (Right Align) -->
   <img src="https://media.tenor.com/6qx58dvIfRIAAAAj/mambo-omachi.gif" height="150" alt="gif" style="margin-left: auto;" />
 </div>
@@ -71,7 +71,7 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/joint-suresh/joint-suresh/output/snake.svg" alt="Snake animation" />
-
+<img src="https://giffiles.alphacoders.com/133/13337.gif" height="150" alt="gif" style="margin-left: auto;" />
 ###
 
 <div align="center">
