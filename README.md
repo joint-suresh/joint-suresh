@@ -75,7 +75,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://kommodo.ai/i/BzrhgzC91p9yjBNJDDCu"  />
+  <img height="200" src="https://github.com/joint-suresh/joint-suresh/blob/ac4ec27173cbfbc233dca4ad5b2c8db41c0dc5fc/MAMBO.gif"  />
 </div>
 
 ###
