@@ -54,6 +54,7 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+  <img src="https://media.tenor.com/ZlYEwEcLfvQAAAAM/1.gif" height="150" alt="gif" style="margin-left: auto;" />
   <!-- Streak Graph (Center) -->
   <img src="https://streak-stats.demolab.com?user=joint-suresh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph" style="margin-right: auto;" />
   
