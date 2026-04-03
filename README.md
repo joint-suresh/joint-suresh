@@ -71,11 +71,12 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/joint-suresh/joint-suresh/output/snake.svg" alt="Snake animation" />
-<img src="https://giffiles.alphacoders.com/133/13337.gif" height="150" alt="gif" style="margin-left: auto;" />
+
 ###
 
 <div align="center">
   <img height="200" src="https://github.com/joint-suresh/joint-suresh/blob/ac4ec27173cbfbc233dca4ad5b2c8db41c0dc5fc/MAMBO.gif"  />
+  <img src="https://giffiles.alphacoders.com/133/13337.gif" height="150" alt="gif" style="margin-left: auto;" />
 </div>
 
 ###
