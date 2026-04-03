@@ -50,17 +50,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-###
-
-<div align="right">
-  <img src="https://streak-stats.demolab.com?user=joint-suresh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+<div style="display: inline-block; text-align: right;">
+  <img src="https://streak-stats.demolab.com?user=joint-suresh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph" />
 </div>
 
-###
-
-<img align="right" height="150" src="https://media.tenor.com/6qx58dvIfRIAAAAj/mambo-omachi.gif"  />
-
-###
+<div style="display: inline-block; text-align: right;">
+  <img src="https://media.tenor.com/6qx58dvIfRIAAAAj/mambo-omachi.gif" height="150" alt="gif" />
+</div>
 
 <br clear="both">
 
